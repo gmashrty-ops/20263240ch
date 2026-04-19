@@ -10,7 +10,7 @@ export default function Home() {
       {/* Profile Section */}
       <section className="ProfileSection glass-panel">
         <div className="AvatarBox">
-          채현
+          🐱
         </div>
         <h1 className="Name">이채현 (Chae-hyun Lee)</h1>
         <p className="Bio">
